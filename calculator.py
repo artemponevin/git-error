@@ -1,9 +1,7 @@
 # Program to check if a number is prime or not
+# Users will not have ability to choose HAHAHAHA
 
 num = 29
-
-# To take input from the user
-#num = int(input("Enter a number: "))
 
 # define a flag variable
 flag = False
